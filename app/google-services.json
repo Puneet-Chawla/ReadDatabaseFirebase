@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "427311320144",
+    "firebase_url": "https://readdattabase.firebaseio.com",
+    "project_id": "readdattabase",
+    "storage_bucket": "readdattabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427311320144:android:9c9dc68b5e2a770e",
+        "android_client_info": {
+          "package_name": "com.example.student.readdattabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427311320144-tup99ka5a5f2m4vu9dvo170rtmo9pjhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.readdattabase",
+            "certificate_hash": "9add40085fca9081a1a55881a45f3ebb22de984b"
+          }
+        },
+        {
+          "client_id": "427311320144-knu228j12f404mk6it7pf456d3kn3jt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG58NItVZgLzyD266WMJME9AN4ZqwNkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427311320144-knu228j12f404mk6it7pf456d3kn3jt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
